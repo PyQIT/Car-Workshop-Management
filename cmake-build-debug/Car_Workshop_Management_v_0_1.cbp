@@ -80,7 +80,19 @@
 				</MakeCommands>
 			</Target>
 		</Build>
+		<Unit filename="C:/Studia/Car-Workshop-Management_v_0.1/client_management.h">
+			<Option target="Car_Workshop_Management_v_0_1"/>
+		</Unit>
 		<Unit filename="C:/Studia/Car-Workshop-Management_v_0.1/main.c">
+			<Option target="Car_Workshop_Management_v_0_1"/>
+		</Unit>
+		<Unit filename="C:/Studia/Car-Workshop-Management_v_0.1/menu.h">
+			<Option target="Car_Workshop_Management_v_0_1"/>
+		</Unit>
+		<Unit filename="C:/Studia/Car-Workshop-Management_v_0.1/notification.h">
+			<Option target="Car_Workshop_Management_v_0_1"/>
+		</Unit>
+		<Unit filename="C:/Studia/Car-Workshop-Management_v_0.1/print_database.h">
 			<Option target="Car_Workshop_Management_v_0_1"/>
 		</Unit>
 		<Unit filename="C:/Studia/Car-Workshop-Management_v_0.1/sqlite3.c">

@@ -6,6 +6,10 @@
 
 #IncludeRegexTransform: 
 
+C:/Studia/Car-Workshop-Management_v_0.1/client_management.h
+menu.h
+C:/Studia/Car-Workshop-Management_v_0.1/menu.h
+
 C:/Studia/Car-Workshop-Management_v_0.1/main.c
 stdio.h
 -
@@ -13,6 +17,32 @@ stdlib.h
 -
 sqlite3.h
 C:/Studia/Car-Workshop-Management_v_0.1/sqlite3.h
+menu.h
+C:/Studia/Car-Workshop-Management_v_0.1/menu.h
+
+C:/Studia/Car-Workshop-Management_v_0.1/menu.h
+stdlib.h
+-
+stdio.h
+-
+client_management.h
+C:/Studia/Car-Workshop-Management_v_0.1/client_management.h
+print_database.h
+C:/Studia/Car-Workshop-Management_v_0.1/print_database.h
+notification.h
+C:/Studia/Car-Workshop-Management_v_0.1/notification.h
+
+C:/Studia/Car-Workshop-Management_v_0.1/notification.h
+
+C:/Studia/Car-Workshop-Management_v_0.1/print_database.h
+client_management.h
+C:/Studia/Car-Workshop-Management_v_0.1/client_management.h
+stdio.h
+-
+stdlib.h
+-
+menu.h
+C:/Studia/Car-Workshop-Management_v_0.1/menu.h
 
 C:/Studia/Car-Workshop-Management_v_0.1/sqlite3.c
 config.h
