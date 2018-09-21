@@ -1,4 +1,11 @@
+<<<<<<< HEAD
 "C:\Program Files\JetBrains\CLion 2017.2.3\bin\cmake\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - MinGW Makefiles" C:\Studia\Car-Workshop-Management_v_0.1
 -- Configuring done
 -- Generating done
 -- Build files have been written to: C:/Studia/Car-Workshop-Management_v_0.1/cmake-build-debug
+=======
+"D:\CLion 2018.1.2\bin\cmake\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - MinGW Makefiles" C:\Users\MSI\CLionProjects\Car-Workshop-Management-v-0.1.1
+-- Configuring done
+-- Generating done
+-- Build files have been written to: C:/Users/MSI/CLionProjects/Car-Workshop-Management-v-0.1.1/cmake-build-debug
+>>>>>>> d7996431e865c372b3a724d76ffc3b671386044c

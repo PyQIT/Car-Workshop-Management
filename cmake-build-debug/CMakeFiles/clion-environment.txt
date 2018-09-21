@@ -1,3 +1,10 @@
+<<<<<<< HEAD
 ToolSet: 3.20@C:\Program Files (x86)\CodeBlocks\MinGW
 Options: 
 CMake: 3.8.2@C:\Program Files\JetBrains\CLion 2017.2.3\bin\cmake\bin\cmake.exe
+=======
+ToolSet: 5.0@C:\MinGW
+Options: 
+
+Options:
+>>>>>>> d7996431e865c372b3a724d76ffc3b671386044c
