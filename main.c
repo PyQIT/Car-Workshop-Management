@@ -3,9 +3,7 @@
 #include "sqlite3.h"
 #include "menu.h"
 
-/* Author Przemysław Pyk
- Maracui
- 28.05.2018 */
+/* 28.05.2018 */
 
 /**
  * @code
